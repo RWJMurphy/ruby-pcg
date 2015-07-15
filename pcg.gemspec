@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = 'Ruby bindings for PCG'
   spec.description   = 'Ruby bindings for PCG'
-  spec.homepage      = "https://github.com/RWJMurphy/gem-pcg.git"
+  spec.homepage      = 'https://github.com/RWJMurphy/ruby-pcg'
   spec.license       = 'MIT'
 
   # Prevent pushing this gem to RubyGems.org by setting 'allowed_push_host', or
